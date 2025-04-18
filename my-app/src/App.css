@@ -1,0 +1,25 @@
+.App{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #caf0f8;
+    color: #03045e;
+    padding: 20px;
+}
+.App p{
+    font-size: 20px;
+    margin: 20px 0;
+}
+.App button{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #00b4d8;
+    border: none;
+    font-size: 16px;
+    margin: 10px;
+}
+.App button:hover{
+    background-color: #0077b6;
+    color: #ffffff;
+    cursor: pointer;
+}
